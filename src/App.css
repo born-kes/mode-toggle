@@ -56,7 +56,7 @@ html {
     .container {
         --container-height: 50vh;
         grid-template-columns: 100%;
-        grid-template-rows: 10% 10% auto;
+        grid-template-rows: 15% 15% auto;
         grid-template-areas:
         "switch"
         "title"
@@ -70,7 +70,7 @@ html {
         --container-height: 80vh;
         --container-margin-left: 1em;
         --container-margin-right: 1em;
-        --container-padding: 3em;
+        --container-padding: 2em;
         --container-border-radius: 45px;
     }
 }
@@ -84,7 +84,13 @@ html {
         --container-height: 80vh;
         --container-margin-top: 1em;
         --container-margin-bottom: 1em;
-        --container-padding: 3em;
+        --container-padding: 2em;
         --container-border-radius: 45px;
+    }
+}
+@media all and (max-height: 280px) {
+
+    .container {
+        --container-height: auto;
     }
 }
