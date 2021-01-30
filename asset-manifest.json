@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-mode-toggle/static/css/main.45d42806.chunk.css",
-    "main.js": "/react-mode-toggle/static/js/main.571a3616.chunk.js",
-    "main.js.map": "/react-mode-toggle/static/js/main.571a3616.chunk.js.map",
+    "main.css": "/react-mode-toggle/static/css/main.ece5cab5.chunk.css",
+    "main.js": "/react-mode-toggle/static/js/main.0a989bfd.chunk.js",
+    "main.js.map": "/react-mode-toggle/static/js/main.0a989bfd.chunk.js.map",
     "runtime-main.js": "/react-mode-toggle/static/js/runtime-main.5ef41730.js",
     "runtime-main.js.map": "/react-mode-toggle/static/js/runtime-main.5ef41730.js.map",
     "static/js/2.6045f2de.chunk.js": "/react-mode-toggle/static/js/2.6045f2de.chunk.js",
     "static/js/2.6045f2de.chunk.js.map": "/react-mode-toggle/static/js/2.6045f2de.chunk.js.map",
     "index.html": "/react-mode-toggle/index.html",
-    "static/css/main.45d42806.chunk.css.map": "/react-mode-toggle/static/css/main.45d42806.chunk.css.map",
+    "static/css/main.ece5cab5.chunk.css.map": "/react-mode-toggle/static/css/main.ece5cab5.chunk.css.map",
     "static/js/2.6045f2de.chunk.js.LICENSE.txt": "/react-mode-toggle/static/js/2.6045f2de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5ef41730.js",
     "static/js/2.6045f2de.chunk.js",
-    "static/css/main.45d42806.chunk.css",
-    "static/js/main.571a3616.chunk.js"
+    "static/css/main.ece5cab5.chunk.css",
+    "static/js/main.0a989bfd.chunk.js"
   ]
 }
