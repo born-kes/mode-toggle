@@ -1,13 +1,10 @@
-import React from "react";
-import './index.css';
 
-const NavBar = () => {
     let trans = () => {
         document.documentElement.classList.add('transition');
         window.setTimeout(() => {
             document.documentElement.classList.remove('transition')
         }, 1000)
-    }
+    };
 
     const handlerChange = (el) => {
 
@@ -18,8 +15,10 @@ const NavBar = () => {
             trans()
             document.documentElement.setAttribute('data-theme', 'light')
         }
-    }
+    };
 
+document.getElementById('toggleMode').addEventListener('change',handlerChange);
+/*
     return (
         <div className={'toggle-container'}>
             <input type="checkbox" id="toggleMode" onChange={handlerChange} />
@@ -27,6 +26,4 @@ const NavBar = () => {
             <div />
         </div>
     );
-}
-
-export default NavBar;
+*/

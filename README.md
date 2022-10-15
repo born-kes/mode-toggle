@@ -19,19 +19,7 @@ press key F12 or Ctrl+Shift+m - in presentation
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-````
-npx create-react-app
-````
-Add Component `SchemaColor`
-````
-[...]
-<div className={'toggle-container'}>
-    <input type="checkbox" id="toggleMode" onChange={handlerChange} />
-    <label htmlFor="toggleMode" />
-    <div />
-</div>
-````
-and css
+ css
 ````
 [...]
 @media all and (max-width: 414px) {
