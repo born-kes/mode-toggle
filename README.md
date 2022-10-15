@@ -12,14 +12,15 @@ press key F12 or Ctrl+Shift+m - in presentation
 [![PrintScreen](https://born-kes.github.io/mode-toggle/icon.jpg)][1]
 ---
 
-## #Technologies
-#### and use in project
+## #Technologies use in project
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+`` ES6 ``
 
- css
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+`` http-server ``
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+`` @media, varibles, grid ``
 ````
 [...]
 @media all and (max-width: 414px) {
@@ -58,14 +59,10 @@ press key F12 or Ctrl+Shift+m - in presentation
 
 ### # step by step 
 
-clone repository:
-````
-gh repo clone born-kes/mode-toggle
-````
+download repository:
 
 run Console ( CMD, PowerShell, ...)
 ````
-cd mode-toggle
-npm i
+npm install
 npm run start
 ````
