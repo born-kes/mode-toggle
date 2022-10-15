@@ -5,11 +5,11 @@ press key F12 or Ctrl+Shift+m - in presentation
 
 => and active view mobile (response mode) 
 
-[1]: https://born-kes.github.io/react-mode-toggle/
+[1]: https://born-kes.github.io/mode-toggle/
 
-[GitHub Page Demo](https://born-kes.github.io/react-mode-toggle/)
+[GitHub Page Demo](https://born-kes.github.io/mode-toggle/)
 
-[![PrintScreen](https://born-kes.github.io/react-mode-toggle/icon.jpg)][1]
+[![PrintScreen](https://born-kes.github.io/mode-toggle/icon.jpg)][1]
 ---
 
 ## #Technologies
@@ -60,12 +60,12 @@ press key F12 or Ctrl+Shift+m - in presentation
 
 clone repository:
 ````
-gh repo clone born-kes/react-mode-toggle
+gh repo clone born-kes/mode-toggle
 ````
 
 run Console ( CMD, PowerShell, ...)
 ````
-cd react-mode-toggle
+cd mode-toggle
 npm i
 npm run start
 ````
