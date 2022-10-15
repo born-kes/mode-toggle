@@ -1,14 +1,15 @@
-# react-mode-toggle
-![PrintScreen](https://born-kes.github.io/react-mode-toggle/icon.jpg)
-
+# mode-toggle
 
 ## #Version Demo:
 press key F12 or Ctrl+Shift+m - in presentation
 
 => and active view mobile (response mode) 
 
+[1]: https://born-kes.github.io/react-mode-toggle/
+
 [GitHub Page Demo](https://born-kes.github.io/react-mode-toggle/)
 
+[![PrintScreen](https://born-kes.github.io/react-mode-toggle/icon.jpg)][1]
 ---
 
 ## #Technologies
